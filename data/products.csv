@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Facial Wash,Skincare,45000
+P002,Serum Brightening,Skincare,120000
+P003,Lip Cream,Makeup,65000
+P004,Moisturizer,Skincare,85000
+P005,Sunscreen,Skincare,90000
+P006,Face Mist,Skincare,55000
+P007,Cushion,Makeup,150000
+P008,Toner,Skincare,75000
+P009,Body Lotion,Body Care,60000
+P010,Shampoo,Hair Care,70000
