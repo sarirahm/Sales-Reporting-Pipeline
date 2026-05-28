@@ -1,0 +1,201 @@
+﻿customer_id,customer_name,city,gender
+1,Asman Pradana,Yogyakarta,M
+2,Drs. Tedi Wijaya,Jakarta,F
+3,Mila Lazuardi,Bandung,M
+4,dr. Jais Kusumo,Bandung,M
+5,Ajimin Dabukke,Yogyakarta,M
+6,"Puti Tiara Nainggolan, S.Pt",Semarang,F
+7,Raden Wulandari,Jakarta,M
+8,Sarah Suryono,Jakarta,M
+9,Hamima Melani,Bandung,M
+10,R. Kamila Natsir,Semarang,M
+11,Gilda Rahmawati,Yogyakarta,F
+12,Puti Sakura Firgantoro,Bandung,F
+13,Ridwan Sihombing,Semarang,F
+14,Paiman Rahimah,Jakarta,M
+15,"Jane Mulyani, S.I.Kom",Yogyakarta,F
+16,"Cakrabuana Hariyah, M.Farm",Surabaya,F
+17,Dt. Bala Salahudin,Bandung,M
+18,Wardaya Sinaga,Surabaya,M
+19,Danu Wacana,Jakarta,F
+20,Karen Napitupulu,Jakarta,F
+21,Atma Yolanda,Surabaya,F
+22,"Drs. Baktiadi Pangestu, S.T.",Jakarta,F
+23,Garan Sudiati,Semarang,M
+24,"Tgk. Surya Megantara, S.Ked",Malang,M
+25,dr. Cakrabuana Purwanti,Semarang,F
+26,"Hari Nasyidah, S.I.Kom",Yogyakarta,F
+27,R.M. Hendri Simbolon,Semarang,M
+28,Ismail Puspasari,Yogyakarta,M
+29,Safina Suryatmi,Jakarta,M
+30,Prabu Hariyah,Surabaya,M
+31,"R. Prabu Adriansyah, S.Ked",Bandung,M
+32,Surya Winarsih,Malang,F
+33,Puti Janet Wijayanti,Malang,F
+34,"dr. Simon Tampubolon, M.Pd",Bandung,F
+35,Paramita Narpati,Surabaya,M
+36,Ophelia Kurniawan,Yogyakarta,F
+37,Siska Adriansyah,Yogyakarta,M
+38,"Gangsa Anggriawan, S.E.",Semarang,M
+39,Purwadi Saputra,Semarang,M
+40,"Ikhsan Damanik, M.M.",Bandung,F
+41,Diah Utama,Malang,F
+42,Asmuni Siregar,Yogyakarta,M
+43,Kawaca Megantara,Yogyakarta,F
+44,Eva Hastuti,Jakarta,M
+45,Ulya Susanti,Jakarta,F
+46,Wulan Halim,Malang,F
+47,"Zulfa Damanik, S.Kom",Jakarta,M
+48,Teguh Wijaya,Semarang,F
+49,Calista Siregar,Bandung,F
+50,Karman Dongoran,Malang,F
+51,Humaira Pradana,Bandung,F
+52,Lukita Mansur,Bandung,M
+53,Azalea Sinaga,Yogyakarta,F
+54,"Drs. Endra Hakim, M.Pd",Yogyakarta,F
+55,Asirwanda Pranowo,Semarang,F
+56,Dariati Usada,Surabaya,M
+57,Cut Ani Utama,Bandung,F
+58,Prabawa Suryatmi,Jakarta,M
+59,Pardi Astuti,Jakarta,M
+60,Samiah Latupono,Yogyakarta,M
+61,Jayadi Prasetyo,Yogyakarta,F
+62,Gangsa Saragih,Semarang,M
+63,"Makara Sudiati, S.T.",Malang,F
+64,"Jagaraga Handayani, M.Pd",Semarang,F
+65,Drs. Darman Prasasta,Semarang,F
+66,Tasnim Anggraini,Semarang,M
+67,R. Clara Oktaviani,Yogyakarta,M
+68,Ellis Susanti,Yogyakarta,F
+69,Xanana Utama,Yogyakarta,F
+70,"Mila Simbolon, S.Kom",Jakarta,F
+71,Dariati Dongoran,Malang,M
+72,"dr. Luluh Nugroho, S.Kom",Malang,M
+73,Ayu Mangunsong,Yogyakarta,F
+74,"Ir. Tami Tarihoran, M.Farm",Semarang,M
+75,drg. Saadat Jailani,Semarang,M
+76,Puput Puspita,Yogyakarta,F
+77,Ana Hardiansyah,Yogyakarta,M
+78,Maria Waluyo,Bandung,F
+79,"Balamantri Winarno, M.Pd",Bandung,M
+80,Cakrabirawa Iswahyudi,Semarang,F
+81,Warji Wastuti,Malang,M
+82,"Dr. Bakiono Hakim, S.H.",Jakarta,F
+83,Paulin Budiman,Surabaya,M
+84,"drg. Usyi Hutapea, M.Pd",Jakarta,M
+85,"Nasrullah Nashiruddin, S.T.",Semarang,M
+86,dr. Ratna Haryanto,Jakarta,F
+87,"R. Kenes Marpaung, S.Farm",Jakarta,M
+88,Ida Hutapea,Bandung,F
+89,Vivi Salahudin,Semarang,M
+90,Septi Widodo,Surabaya,F
+91,Tantri Maryadi,Bandung,M
+92,Anita Handayani,Yogyakarta,F
+93,"Hj. Hasna Mandala, M.Ak",Malang,F
+94,Marwata Nugroho,Malang,F
+95,"Puti Intan Astuti, S.H.",Jakarta,M
+96,Tgk. Clara Prabowo,Bandung,M
+97,Wirda Ramadan,Surabaya,M
+98,Oskar Hidayanto,Semarang,M
+99,Dr. Siska Rajata,Semarang,M
+100,Amalia Kusmawati,Jakarta,M
+101,Vinsen Nasyiah,Yogyakarta,M
+102,"Jessica Hutasoit, S.E.I",Bandung,M
+103,"T. Hari Zulkarnain, S.Kom",Jakarta,F
+104,R.A. Ika Salahudin,Jakarta,M
+105,"Tgk. Hasan Wacana, M.Farm",Surabaya,F
+106,Karsa Widiastuti,Bandung,M
+107,Dr. Arsipatra Halim,Yogyakarta,F
+108,KH. Estiono Dongoran,Bandung,F
+109,Maya Siregar,Malang,M
+110,Agnes Nainggolan,Jakarta,M
+111,Tgk. Ulva Pertiwi,Yogyakarta,F
+112,"Dr. Olivia Simanjuntak, S.E.",Surabaya,F
+113,drg. Siti Mayasari,Malang,F
+114,Tgk. Edison Wastuti,Yogyakarta,M
+115,Ulva Sihotang,Yogyakarta,M
+116,"Puspa Pradipta, M.M.",Jakarta,F
+117,Cinta Maulana,Yogyakarta,F
+118,"Tgk. Galuh Sudiati, S.Gz",Jakarta,M
+119,"Samsul Januar, S.Pd",Bandung,M
+120,Ir. Gilda Tarihoran,Semarang,F
+121,Intan Wastuti,Bandung,F
+122,Tgk. Anita Widodo,Bandung,F
+123,"Melinda Hakim, S.Gz",Malang,M
+124,"Puput Sirait, S.Pd",Jakarta,F
+125,"Dartono Prayoga, S.Farm",Semarang,M
+126,Elvina Rahimah,Jakarta,M
+127,"Yosef Kuswandari, S.Pd",Jakarta,M
+128,Melinda Siregar,Bandung,F
+129,Saadat Salahudin,Malang,F
+130,Jaka Ardianto,Bandung,F
+131,Cakrawala Hassanah,Jakarta,M
+132,Jayeng Pangestu,Malang,M
+133,Hartaka Suartini,Malang,F
+134,Lanang Tarihoran,Malang,F
+135,T. Ikin Kuswandari,Malang,F
+136,"Hj. Rina Nurdiyanti, S.Gz",Bandung,M
+137,Ir. Karman Saefullah,Surabaya,M
+138,Nova Wulandari,Jakarta,M
+139,"Sutan Elvin Yolanda, S.I.Kom",Yogyakarta,F
+140,"Prima Hassanah, S.Pd",Jakarta,M
+141,drg. Kani Anggraini,Semarang,F
+142,"R.A. Tami Ramadan, M.TI.",Semarang,M
+143,Jinawi Ramadan,Jakarta,M
+144,Prasetyo Kusmawati,Bandung,M
+145,Nadia Susanti,Semarang,M
+146,Rafid Permadi,Yogyakarta,M
+147,"Sutan Rahmat Riyanti, S.Ked",Malang,M
+148,"R.A. Novi Anggraini, S.Kom",Semarang,M
+149,dr. Prabowo Permadi,Semarang,M
+150,"Daruna Pertiwi, M.Ak",Semarang,M
+151,Ikin Waskita,Malang,F
+152,R. Adika Laksmiwati,Surabaya,M
+153,Jessica Mardhiyah,Yogyakarta,F
+154,Cinta Narpati,Bandung,F
+155,Karen Handayani,Malang,M
+156,"Mala Aryani, S.IP",Yogyakarta,F
+157,"Clara Gunawan, M.M.",Malang,F
+158,Edi Utami,Jakarta,M
+159,Kemal Kurniawan,Malang,M
+160,Raihan Wulandari,Jakarta,M
+161,Hj. Zelaya Hardiansyah,Semarang,F
+162,Balamantri Nuraini,Bandung,F
+163,Prabowo Mayasari,Jakarta,M
+164,Surya Nashiruddin,Surabaya,F
+165,Drs. Opung Nasyiah,Bandung,F
+166,"Anggabaya Firgantoro, S.Pd",Semarang,F
+167,Dr. Victoria Halimah,Semarang,M
+168,Paulin Siregar,Yogyakarta,F
+169,"R.A. Cici Sitompul, S.Kom",Yogyakarta,M
+170,"dr. Agnes Permadi, S.Kom",Bandung,F
+171,Clara Jailani,Jakarta,M
+172,Puti Agnes Maulana,Yogyakarta,M
+173,"Bagiya Kuswandari, S.Farm",Surabaya,F
+174,Dr. Tirta Purwanti,Semarang,M
+175,Cahyanto Wijaya,Yogyakarta,F
+176,"Tgk. Zaenab Ramadan, M.Kom.",Bandung,F
+177,"Kalim Mandasari, M.M.",Semarang,F
+178,Puji Iswahyudi,Surabaya,M
+179,"Iriana Narpati, M.TI.",Jakarta,F
+180,Adhiarja Januar,Surabaya,M
+181,Laras Permata,Jakarta,F
+182,"Diah Agustina, S.T.",Bandung,F
+183,Azalea Winarno,Bandung,F
+184,Gaman Hasanah,Semarang,F
+185,Fathonah Napitupulu,Semarang,M
+186,"Himawan Natsir, S.Gz",Jakarta,M
+187,Zamira Dabukke,Yogyakarta,M
+188,Fathonah Irawan,Semarang,M
+189,Eva Prayoga,Surabaya,M
+190,"R.M. Irfan Wasita, S.I.Kom",Malang,M
+191,Paulin Winarno,Jakarta,F
+192,Halima Kusmawati,Surabaya,M
+193,Tomi Maryati,Surabaya,M
+194,Rahayu Maryadi,Yogyakarta,M
+195,Emil Saptono,Yogyakarta,M
+196,Aris Purnawati,Surabaya,F
+197,"Mahesa Napitupulu, M.Ak",Semarang,M
+198,Saadat Utami,Bandung,M
+199,Cahyanto Widiastuti,Bandung,F
+200,Oni Maulana,Jakarta,M
